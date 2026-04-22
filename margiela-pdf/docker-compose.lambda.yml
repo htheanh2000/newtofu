@@ -1,0 +1,26 @@
+# Chạy Lambda PDF dưới dạng container giống production (RIC port 8080)
+# Cần: .env có APP_URL trỏ FE (local hoặc production)
+# Build: docker compose -f docker-compose.lambda.yml build
+# Chạy:  docker compose -f docker-compose.lambda.yml up
+# Gọi:   ./scripts/invoke-local-lambda.sh <compositionId>
+
+services:
+  margiela-pdf-lambda:
+    build:
+      context: .
+      dockerfile: Dockerfile.lambda
+    image: margiela-pdf-lambda:latest
+    container_name: margiela-pdf-lambda
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - AWS_LAMBDA_FUNCTION_NAME=margiela-pdf
+      # FE URL: dùng production hoặc host (mac/win: host.docker.internal)
+      - APP_URL=${APP_URL:-https://springsummer2026margiela.com}
+      - PUBLIC_URL=${PUBLIC_URL:-http://localhost:8080}
+    # Tùy chọn S3 (nếu có)
+    # environment:
+    #   - S3_BUCKET=...
+    #   - S3_PREFIX=pdfs/

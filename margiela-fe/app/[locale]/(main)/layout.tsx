@@ -1,0 +1,53 @@
+"use client";
+
+import { useTranslations } from "next-intl";
+
+export default function MainLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  const t = useTranslations("common");
+
+  return (
+    <div className="mobile-container min-h-screen bg-white flex flex-col">
+      <div className="flex justify-center bg-white pt-[26px] pb-[24px]">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width={59}
+          height={34}
+          viewBox="0 0 59 34"
+          fill="none"
+          className="object-contain"
+          aria-label={t("logoAlt")}
+          role="img"
+        >
+          <g clipPath="url(#clip0_55_528)">
+            <path
+              d="M2.13892 0.425049C1.70079 -0.0839519 0.934066 -0.145161 0.425065 0.289745C-0.0839366 0.727873 -0.145146 1.49137 0.289761 2.0036L4.43909 6.86166C4.87399 7.37066 5.64072 7.43187 6.14972 6.99697C6.65872 6.56206 6.71993 5.79534 6.28502 5.28633L2.13892 0.425049Z"
+              fill="#131313"
+            />
+            <path
+              d="M0.289928 31.9962C-0.144978 32.5052 -0.0837688 33.2719 0.425233 33.7068C0.934234 34.1417 1.70096 34.0805 2.13586 33.5715L6.28519 28.7135C6.7201 28.2045 6.65889 27.4377 6.14989 27.0028C5.64089 26.5679 4.87416 26.6291 4.43926 27.1381L0.289928 31.9962Z"
+              fill="#131313"
+            />
+            <path
+              d="M52.134 27.0061C52.643 26.5712 53.4097 26.6324 53.8446 27.1414L57.9939 31.9994C58.4289 32.5084 58.3709 33.2752 57.8586 33.7101C57.3496 34.145 56.5829 34.0838 56.148 33.5748L51.9987 28.7167C51.5638 28.2077 51.625 27.441 52.134 27.0061Z"
+              fill="#131313"
+            />
+            <path
+              d="M51.9987 5.28331C51.5638 5.79231 51.625 6.55904 52.134 6.99394C52.643 7.42885 53.4097 7.36764 53.8446 6.85864L57.9939 2.00057C58.4289 1.49157 58.3709 0.72485 57.8586 0.289944C57.3496 -0.144963 56.5829 -0.0837535 56.148 0.425248L51.9987 5.28331Z"
+              fill="#131313"
+            />
+          </g>
+          <defs>
+            <clipPath id="clip0_55_528">
+              <rect width="58.2871" height="34" fill="white" />
+            </clipPath>
+          </defs>
+        </svg>
+      </div>
+      <div className="flex-1 flex flex-col">{children}</div>
+    </div>
+  );
+}

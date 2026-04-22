@@ -1,0 +1,36 @@
+# Dependencies and build output (reinstalled/built in container)
+node_modules
+.next
+.open-next
+.npm
+*.tsbuildinfo
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+
+# Git and IDE
+.git
+.gitignore
+.direnv
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml
+*.md
+README*
+
+# Dev and test
+screenshots
+.vercel
+coverage
+*.log
+npm-debug.log*
+.DS_Store
+.cursor
+.vscode
+*.test.*
+*.spec.*
+__tests__

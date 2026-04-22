@@ -1,0 +1,164 @@
+{
+  "common": {
+    "logoAlt": "Margiela",
+    "logoFullAlt": "Maison Margiela Paris"
+  },
+  "home": {
+    "titleLine1": "譜寫你的樂章",
+    "subtitleLine1": "以我們與 Max Richter 共同呈現的 2026 春夏系列為靈感，創作一段屬於你的樂譜。",
+    "subtitleLine2": "你的作品將被印製成樂譜，於門店領取。",
+    "cta": "開始創作"
+  },
+  "chooseMedium": {
+    "title": "選擇你的樂器",
+    "instruments": {
+      "piano": "鋼琴",
+      "pianoDesc": "擊鍵分明・歷久彌新",
+      "violin": "小提琴",
+      "violinDesc": "深沉・共鳴悠長",
+      "flute": "長笛",
+      "fluteDesc": "空靈・輕盈",
+      "trumpet": "小號",
+      "trumpetDesc": "鮮明有力・結構分明"
+    }
+  },
+  "compose": {
+    "title": "譜寫你的樂章",
+    "intro": "請在 {seconds} 秒內創作並細緻調整你的樂章。",
+    "continue": "繼續"
+  },
+  "identification": {
+    "title": "你的資料",
+    "intro": "若希望由 Maison Margiela 為你印製樂譜，請填寫以下資料。",
+    "introLine1": "若希望由 Maison Margiela",
+    "introLine2": "為你印製樂譜，請填寫以下資料。",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "gender": "性別",
+    "dateOfBirth": "出生日期",
+    "country": "國家／地區",
+    "state": "州／省",
+    "city": "城市",
+    "postcode": "郵遞區號",
+    "phone": "電話",
+    "email": "電子郵件",
+    "select": "請選擇",
+    "searchPlaceholder": "搜尋...",
+    "noResults": "沒有找到",
+    "requiredFields": "*必填欄位",
+    "continue": "繼續",
+    "generateScore": "生成樂譜",
+    "submitting": "提交中...",
+    "genderMale": "男",
+    "genderFemale": "女",
+    "genderRatherNot": "不願透露",
+    "validationFirstName": "請填寫名字",
+    "validationLastName": "請填寫姓氏",
+    "validationGender": "請選擇性別",
+    "validationDateOfBirth": "請填寫出生日期",
+    "validationDateOfBirthFuture": "出生日期不可為未來日期",
+    "validationCountry": "請填寫國家/地區",
+    "validationPhone": "請填寫電話",
+    "validationEmail": "請填寫有效的電子郵件地址。"
+  },
+  "review": {
+    "title": "你的創作",
+    "description": "請注意，此段音訊將不會被儲存。\n點擊「繼續」，以樂譜形式接收你的作品，並可於門店領取。",
+    "playBack": "播放我的創作",
+    "playing": "播放中...",
+    "continue": "繼續",
+    "goBack": "重新譜寫"
+  },
+  "result": {
+    "redirecting": "重新導向中..."
+  },
+  "resultId": {
+    "generating": "正在生成你的樂譜...",
+    "creatingQr": "正在生成 QR 碼...",
+    "errorMessage": "發生錯誤，請稍後再試。",
+    "somethingWrong": "發生錯誤",
+    "scoreReady": "你的樂譜已準備就緒",
+    "presentDescription": "請於 Maison Margiela\n二樓專門店向店員出示此 QR Code",
+    "storeLocation": "門店地址：",
+    "storeAddress": "IFC\u00A0商場二樓\u00A02081\u00A0號舖",
+    "doNotRefresh": "請勿重新整理此頁面"
+  },
+  "kiosk": {
+    "scorePreview": "樂譜預覽",
+    "scanInstruction": "掃描 QR 碼以列印你的樂譜。",
+    "enterCodePlaceholder": "或手動輸入代碼",
+    "printScore": "列印樂譜",
+    "errorEnterCode": "請輸入或掃描代碼"
+  },
+  "kioskProcessing": {
+    "receiving": "已收到代碼。",
+    "rendering": "正在轉譯聲音...",
+    "printing": "正在列印你的樂譜...",
+    "processing": "處理中：{code}...",
+    "loading": "載入中..."
+  },
+  "kioskComplete": {
+    "message": "列印完成。",
+    "thankYou": "感謝你。",
+    "startOver": "重新開始"
+  },
+  "scan": {
+    "loadingSheet": "正在載入樂譜...",
+    "loadingComposition": "正在載入作品...",
+    "compositionNotFound": "找不到作品",
+    "qrInvalid": "此 QR 碼可能無效或已過期。",
+    "failedToLoad": "載入失敗",
+    "print": "列印 / 儲存 PDF",
+    "yourScore": "你的樂譜"
+  },
+  "musicSheet": {
+    "season": "2026 春夏系列",
+    "piano": "鋼琴",
+    "violin": "小提琴",
+    "flute": "長笛",
+    "trumpet": "小號"
+  },
+  "terms": {
+    "title": "條款與條件",
+    "link": "條款與條件",
+    "section1Title": "1. 接受條款",
+    "section1Body": "使用本服務即表示您接受並同意受本條款與條件約束。",
+    "section2Title": "2. 服務使用",
+    "section2Body": "本服務供您創作音樂敘事。您同意僅以合法方式並依本條款使用。",
+    "section3Title": "3. 智慧財產權",
+    "section3Body": "所有內容、品牌與資料均為 Maison Margiela 或其授權人所有。您的作品為您本人的創作。",
+    "section4Title": "4. 責任限制",
+    "section4Body": "在法律允許的最大範圍內，Maison Margiela 對因使用本服務所生之間接、附帶或衍生損害不負任何責任。",
+    "section5Title": "5. 聯絡方式",
+    "section5Body": "如有關於本條款之疑問，請透過 Maison Margiela 官方管道聯絡。"
+  },
+  "privacy": {
+    "title": "隱私偏好設定",
+    "marketingIntro": "在閱讀本《私隱政策聲明》後，本人同意 Margiela S.a.s.u. 根據《私隱政策聲明》第 3.1.a) 段所述，為市場推廣*用途處理本人之個人資料。\n\n本人明白可隨時免費撤回接收上述推廣通訊之同意。您可透過每封已接收之電子郵件內所載之相關選項取消訂閱，或電郵至 privacy@margiela.com，亦可按《私隱政策聲明》第 1 段所列之聯絡方式與 Margiela S.a.s.u. 聯絡，以撤回您的同意。",
+    "linkMarketing": "有關市場推廣用途之詳情，請點擊此處",
+    "linkMarketingPrefix": "",
+    "profilingIntro": "在閱讀本《私隱政策聲明》後，本人同意共同資料控制者 OTB S.p.A. 及 Margiela S.a.s.u. 根據《私隱政策聲明》第 3.2.a) 段所述，為進行客戶分析及提供符合您個人偏好之體驗*，處理本人之個人資料。\n\n本人明白可隨時免費撤回就個人化分析（Profiling）所給予之同意。您可電郵至 privacy@margiela.com 或 privacy@otb.net，或按《私隱政策聲明》第 1 段所列之聯絡方式與共同資料控制者聯絡，以撤回您的同意。",
+    "linkProfiling": "有關個人化分析用途之詳情，請點擊此處",
+    "linkProfilingPrefix": "",
+    "requiredField": "* 必填欄位",
+    "yes": "是",
+    "no": "否",
+    "receiveScore": "領取我的樂譜",
+    "validationConsent": "請就行銷與分析兩項皆選擇一項。",
+    "acceptPrivacyTerms": "請接受《私隱條款》以領取你的樂譜。",
+    "close": "關閉",
+    "loading": "載入中...",
+    "loadError": "無法載入內容。",
+    "submitError": "發生錯誤，請稍後再試。"
+  },
+  "registerDevice": {
+    "title": "註冊裝置",
+    "success": "裝置已成功註冊。",
+    "deviceId": "裝置 ID",
+    "loading": "註冊中..."
+  },
+  "metadata": {
+    "title": "Maison Margiela | 譜寫你的敘事",
+    "description": "披上你的記憶，雕塑你的敘事。編織屬於你的聲音風景。"
+  }
+}

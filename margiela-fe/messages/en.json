@@ -1,0 +1,162 @@
+{
+  "common": {
+    "logoAlt": "Margiela",
+    "logoFullAlt": "Maison Margiela Paris"
+  },
+  "home": {
+    "titleLine1": "COMPOSE YOUR SCORE",
+    "subtitleLine1": "Compose a score inspired by our Spring–Summer 2026 campaign with Max Richter.",
+    "subtitleLine2": "Your composition will be printed for collection in store.",
+    "cta": "START COMPOSING"
+  },
+  "chooseMedium": {
+    "title": "Choose Your Instrument",
+    "instruments": {
+      "piano": "Piano",
+      "pianoDesc": "Percussive & Timeless",
+      "violin": "Violin",
+      "violinDesc": "Deep & Resonant",
+      "flute": "Flute",
+      "fluteDesc": "Ethereal & Light",
+      "trumpet": "Trumpet",
+      "trumpetDesc": "Bold & Structural"
+    }
+  },
+  "compose": {
+    "title": "Compose Your Score",
+    "intro": "Use the {seconds} seconds to create and refine your composition.",
+    "continue": "Continue"
+  },
+  "identification": {
+    "title": "YOUR DETAILS",
+    "intro": "To receive your composition as a printed music sheet from us at Maison Margiela, please provide your details.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "gender": "Gender",
+    "dateOfBirth": "Date of Birth",
+    "country": "Country/Region",
+    "state": "State/Province",
+    "city": "City",
+    "postcode": "Postcode",
+    "phone": "Phone",
+    "email": "Email",
+    "select": "Select",
+    "searchPlaceholder": "Search...",
+    "noResults": "No results",
+    "requiredFields": "*Required fields",
+    "continue": "CONTINUE",
+    "generateScore": "Generate Score",
+    "submitting": "Submitting...",
+    "genderMale": "Male",
+    "genderFemale": "Female",
+    "genderRatherNot": "Rather Not to Say",
+    "validationFirstName": "First name is required",
+    "validationLastName": "Last name is required",
+    "validationGender": "Gender is required",
+    "validationDateOfBirth": "Date of birth is required",
+    "validationDateOfBirthFuture": "Date of birth cannot be in the future",
+    "validationCountry": "Country is required",
+    "validationPhone": "Phone is required",
+    "validationEmail": "Please fill in a valid email."
+  },
+  "review": {
+    "title": "YOUR COMPOSITION",
+    "description": "Please note this audio will not be saved.\nPress \"Continue\" to receive your score in music sheet form, available for pickup in-store.",
+    "playBack": "PLAY MY COMPOSITION",
+    "playing": "Playing...",
+    "continue": "CONTINUE",
+    "goBack": "RECOMPOSE"
+  },
+  "result": {
+    "redirecting": "Redirecting..."
+  },
+  "resultId": {
+    "generating": "Generating your music score...",
+    "creatingQr": "Creating your QR code...",
+    "errorMessage": "Something went wrong. Please try again.",
+    "somethingWrong": "Something went wrong",
+    "scoreReady": "YOUR SCORE IS READY\nTO PICK UP",
+    "presentDescription": "Present this QR code to our staff at the Maison Margiela Store on Level 2",
+    "storeLocation": "Store location:",
+    "storeAddress": "Shop 2081, Podium Level Two, ifc mall",
+    "doNotRefresh": "Do not refresh this page."
+  },
+  "kiosk": {
+    "scorePreview": "Score Preview",
+    "scanInstruction": "Scan the QR code to print your score.",
+    "enterCodePlaceholder": "Or enter code manually",
+    "printScore": "Print Score",
+    "errorEnterCode": "Please enter or scan a code"
+  },
+  "kioskProcessing": {
+    "receiving": "Code received.",
+    "rendering": "Rendering sound...",
+    "printing": "Printing your score...",
+    "processing": "Processing: {code}...",
+    "loading": "Loading..."
+  },
+  "kioskComplete": {
+    "message": "Printing completed.",
+    "thankYou": "Thank you.",
+    "startOver": "start over"
+  },
+  "scan": {
+    "loadingSheet": "Loading sheet music...",
+    "loadingComposition": "Loading composition...",
+    "compositionNotFound": "Composition Not Found",
+    "qrInvalid": "This QR code may be invalid or expired.",
+    "failedToLoad": "Failed to load",
+    "print": "Print / Save PDF",
+    "yourScore": "Your Musical Score"
+  },
+  "musicSheet": {
+    "season": "Co-Ed Spring Summer 2026",
+    "piano": "Piano",
+    "violin": "Violin",
+    "flute": "Flute",
+    "trumpet": "Trumpet"
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "link": "Terms and Conditions",
+    "section1Title": "1. Acceptance",
+    "section1Body": "By accessing and using this service, you accept and agree to be bound by these Terms and Conditions.",
+    "section2Title": "2. Use of Service",
+    "section2Body": "This service allows you to compose a musical narrative. You agree to use it only for lawful purposes and in accordance with these terms.",
+    "section3Title": "3. Intellectual Property",
+    "section3Body": "All content, branding, and materials are the property of Maison Margiela or its licensors. Your composition is your own creative work.",
+    "section4Title": "4. Limitation of Liability",
+    "section4Body": "To the fullest extent permitted by law, Maison Margiela shall not be liable for any indirect, incidental, or consequential damages arising from your use of this service.",
+    "section5Title": "5. Contact",
+    "section5Body": "For questions regarding these terms, please contact Maison Margiela through official channels."
+  },
+  "privacy": {
+    "title": "PRIVACY PREFERENCES",
+    "marketingIntro": "Having read the information notice, I authorize Margiela S.a.s.u. to the processing of my personal data for Marketing* purposes as described in paragraph 3.1.a) of the information notice. You can at any time withdraw, free of charge, your consent to receive the above-mentioned communications by clicking on the appropriate option in each email received, as well as by writing to the address privacy@margiela.com or otherwise contacting Margiela S.a.s.u. at the addresses indicated at paragraph 1 of the information notice.",
+    "linkMarketing": "CLICK HERE",
+    "linkMarketingPrefix": "FOR DETAILS ABOUT MARKETING PURPOSES ",
+    "profilingIntro": "Having read the information notice, I authorize the Joint Controllers OTB S.p.A. and Margiela S.a.s.u. to process my personal data for the purpose of Customer analysis to provide experiences in line with your preferences* as described in paragraph 3.2.a) of the information notice. You can at any time withdraw, free of charge, your consent to be subject to profiling by writing to the address privacy@margiela.com, privacy@otb.net or otherwise contacting the Joint Controller at the addresses indicated at paragraph 1 of the information notice.",
+    "linkProfiling": "CLICK HERE",
+    "linkProfilingPrefix": "FOR DETAILS ABOUT PROFILING PURPOSES\n",
+    "requiredField": "*Required fields",
+    "yes": "yes",
+    "no": "no",
+    "receiveScore": "RECEIVE MY SCORE",
+    "validationConsent": "Please select an option for both marketing and profiling.",
+    "acceptPrivacyTerms": "Please accept the Privacy Terms to receive your score.",
+    "close": "Close",
+    "loading": "Loading...",
+    "loadError": "Unable to load content.",
+    "submitError": "Something went wrong. Please try again."
+  },
+  "registerDevice": {
+    "title": "Register device",
+    "success": "Device registered successfully.",
+    "deviceId": "Device ID",
+    "loading": "Registering..."
+  },
+  "metadata": {
+    "title": "Maison Margiela | Compose Your Narrative",
+    "description": "Drape your memory, sculpt your narrative. Compose your unique soundscape."
+  }
+}

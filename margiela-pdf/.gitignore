@@ -1,0 +1,5 @@
+node_modules/
+pdfs/
+*.log
+.env
+deploy.zip

@@ -1,0 +1,16 @@
+# Cloudflare Worker: reverse proxy admin static site từ S3
+# Free: 100,000 requests/day
+# Domain: admin.springsummer2026margiela.com
+
+name = "margiela-admin-proxy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+account_id = "b47c59ba0f289513ecc615e30447f79e"
+workers_dev = false
+
+routes = [
+  { pattern = "admin.springsummer2026margiela.com/*", zone_id = "bbacf89e64cedfe82d68c652cbb33a74" }
+]
+
+[vars]
+S3_WEBSITE_HOST = "admin-springsummer2026margiela.s3-website-ap-southeast-1.amazonaws.com"

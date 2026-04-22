@@ -1,0 +1,375 @@
+@import "tailwindcss";
+
+/* BB Title font (default / zh) */
+@font-face {
+  font-family: 'BB Title';
+  src: url('/fonts/BB.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BB Title';
+  src: url('/fonts/BB.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Courier Recast (EN only) */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('/fonts/CourierRecast_Th.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('/fonts/CourierRecast_SBd.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Adobe Song Std (Chinese – musical sheet / PDF) */
+@font-face {
+  font-family: 'Adobe Song Std';
+  src: url('/fonts/AdobeSongStd-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Songti TC (Chinese locale – UI), extracted from Songti.ttc */
+@font-face {
+  font-family: 'Songti TC';
+  src: url('/fonts/SongtiTC-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Songti TC';
+  src: url('/fonts/SongtiTC-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --foreground: #0a0a0a;
+  --background: #ffffff;
+  --muted: #666666;
+  --border: #e5e5e5;
+  --accent: #1a1a1a;
+  
+  --font-title: 'BB Title', 'Didot', 'Georgia', serif;
+  --font-body: 'Georgia', 'Times New Roman', serif;
+}
+
+/* English locale: use Courier Recast for entire site */
+html[lang="en"] {
+  --font-title: 'Courier Recast', 'Courier New', monospace;
+  --font-body: 'Courier Recast', 'Courier New', monospace;
+}
+
+/* Chinese locale: use Songti TC (matches Figma Songti TC) */
+html[lang="zh"] {
+  --font-title: 'Songti TC', 'Songti SC', 'SimSun', serif;
+  --font-body: 'Songti TC', 'Songti SC', 'SimSun', serif;
+}
+
+* {
+  box-sizing: border-box !important;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Do NOT use scrollbar-gutter: stable - causes layout shift on iOS 18.2+ (iPhone 13/17)
+   * where it's newly supported; mobile uses overlay scrollbars so it's ineffective anyway */
+}
+
+body {
+  margin: 0;
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Remove default text padding/margin and tighten box so text doesn’t “thừa” */
+p {
+  /* border: 1px solid red !important; */
+  line-height: 1 !important;
+}
+
+/* Typography utilities */
+.font-title {
+  font-family: var(--font-title);
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+/* English/numbers in Chinese locale: Courier Recast Thin */
+.font-courier-recast-thin {
+  font-family: "Courier Recast", "Courier New", monospace;
+  font-weight: 300;
+}
+
+/* Margiela aesthetic - uppercase tracking */
+.heading-style {
+  font-family: var(--font-title);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 400;
+}
+
+.subheading-style {
+  font-family: var(--font-body);
+  letter-spacing: 0.02em;
+  line-height: 1.6;
+}
+
+/* Button styles */
+.btn-primary {
+  background: var(--foreground);
+  color: var(--background);
+  font-family: var(--font-title);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  padding: 1rem 2rem;
+  border-radius: 9999px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  opacity: 0.85;
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--foreground);
+  font-family: var(--font-title);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  padding: 1rem 2rem;
+  border-radius: 9999px;
+  border: 1px solid var(--foreground);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background: var(--foreground);
+  color: var(--background);
+}
+
+/* Form input styles */
+.input-floating {
+  position: relative;
+  width: 100%;
+}
+
+.input-floating input,
+.input-floating select {
+  width: 100%;
+  padding: 1rem 0.75rem 0.5rem;
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  background: transparent;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.input-floating input:focus,
+.input-floating select:focus {
+  border-color: var(--foreground);
+}
+
+.input-floating label {
+  position: absolute;
+  left: 0.75rem;
+  top: -0.5rem;
+  font-family: var(--font-title);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--background);
+  padding: 0 0.25rem;
+  color: var(--muted);
+}
+
+/* Card styles */
+.instrument-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.instrument-card:hover {
+  transform: translateY(-4px);
+}
+
+.instrument-card.selected {
+  outline: 2px solid var(--foreground);
+  outline-offset: 2px;
+}
+
+/* Piano roll styles */
+.piano-key {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  border-bottom: 1px solid var(--border);
+}
+
+.piano-key-label {
+  width: 20px;
+  font-family: var(--font-title);
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.piano-key-track {
+  flex: 1;
+  height: 100%;
+  position: relative;
+  background: linear-gradient(90deg, var(--border) 1px, transparent 1px);
+  background-size: 48px 100%;
+}
+
+.piano-note {
+  position: absolute;
+  height: 48px;
+  background: var(--foreground);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.piano-note:hover {
+  opacity: 0.8;
+}
+
+/* Status bar simulation */
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+}
+
+/* Dynamic Island */
+.dynamic-island {
+  width: 124px;
+  height: 36px;
+  background: #000;
+  border-radius: 18px;
+  margin: 0 auto;
+}
+
+/* Mobile container – 430px = Pro Max; 393px = Pro. Use 100% + max-width so Pro doesn't overflow. */
+.mobile-container {
+  width: 100%;
+  max-width: 430px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background: var(--background);
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Selection */
+::selection {
+  background: var(--foreground);
+  color: var(--background);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--muted);
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--foreground);
+}
+
+/* Hide scrollbar visually but keep scroll (e.g. identification form) */
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Animation keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.animate-pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Stagger children animation */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.5s; }
+

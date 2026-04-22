@@ -1,0 +1,14 @@
+# Cloudflare Worker: reverse proxy PDF từ S3 public bucket
+# Free: 100,000 requests/day
+# Domain: pdf.springsummer2026margiela.com
+
+name = "margiela-pdf-proxy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+account_id = "68d65391f1659c0716adbecb2893b376"
+workers_dev = true
+
+[vars]
+S3_BUCKET = "margiela-pdfs"
+S3_PREFIX = "pdfs/"
+AWS_REGION = "ap-southeast-1"

@@ -1,0 +1,25 @@
+services:
+  margiela-pdf:
+    build: .
+    container_name: margiela-pdf
+    restart: unless-stopped
+    ports:
+      - "3456:3456"
+    networks:
+      - contabo_network
+    environment:
+      - PORT=3456
+      - APP_URL=https://springsummer2026margiela.com
+      - PUBLIC_URL=https://vf4ry4wamhj7zkhzysvdc6oi7y0nzaqn.lambda-url.ap-southeast-1.on.aws
+    volumes:
+      - ./pdfs:/app/pdfs
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3456/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  contabo_network:
+    external: true
+    name: contabo_network

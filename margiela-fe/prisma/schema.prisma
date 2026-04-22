@@ -1,0 +1,47 @@
+// Margiela – Neon PostgreSQL (Prisma)
+// Compositions + Users
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Composition {
+  id        String   @id // app composition id (e.g. 1234567890-abc123)
+  instrument String
+  notes     String   // JSON stringified Note[]
+  duration  Int
+  createdAt DateTime
+  pdfUrl    String?  // set when PDF is generated; used by view page (device-gated)
+  user      User?
+}
+
+model User {
+  id            String   @id @default(cuid())
+  compositionId String   @unique
+  composition   Composition @relation(fields: [compositionId], references: [id], onDelete: Cascade)
+  firstName     String
+  lastName      String
+  gender        String
+  dateOfBirth   String
+  country       String
+  state         String?
+  city          String
+  postcode      String
+  phone         String
+  email         String
+  createdAt     DateTime @default(now())
+}
+
+// Whitelist for scan/PDF: only registered devices can load composition or generate PDF
+model Device {
+  id         String   @id @default(cuid())
+  deviceId   String   @unique // client sends X-Device-ID
+  name       String?
+  userAgent  String?
+  registeredAt DateTime @default(now())
+}

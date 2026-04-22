@@ -1,0 +1,11 @@
+# Lambda container – chỉ dùng cho test local (docker-compose.lambda.yml).
+# Production deploy: zip → S3 → Lambda (scripts/deploy-lambda.sh), không dùng ECR.
+
+FROM public.ecr.aws/lambda/nodejs:20
+
+COPY package*.json ./
+RUN npm install --omit=dev
+
+COPY . .
+# Handler: lambda.js exports handler (serverless-http wrap of Express)
+CMD ["lambda.handler"]

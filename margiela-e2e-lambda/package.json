@@ -1,0 +1,8 @@
+{
+  "name": "margiela-e2e-lambda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily E2E check for Margiela FE flow, notifies Slack at 8AM HKT",
+  "main": "index.mjs",
+  "type": "module"
+}

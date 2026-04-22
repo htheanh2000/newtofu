@@ -1,0 +1,303 @@
+HK
+ENGLISH
+INFORMATION NOTICE OMNICHANNEL
+INFORMATION NOTICE ON THE PROCESSING OF PERSONAL DATA PURSUANT TO ARTICLES 13 AND 14 OF EU REGULATION 679/2016 ("GDPR")
+Your privacy is extremely important to us, please read this information notice carefully.
+
+We wish to inform you in a complete and transparent manner about the personal data processing that the companies listed in paragraph 1 below will carry out on your personal data provided by you and/or collected in the context of the contacts you will possibly have with us, including for example the following:
+
+visiting our stores
+contacting our Customer Service;
+visiting the website www.maisonmargiela.com (hereinafter the "Site") and/or the other websites referring to the brand, interacting with our pages on the social networks (eg. Facebook, Twitter, Instagram, we chat, etc.).
+We assure you that all practicable steps are taken to ensure that your personal data is protected against unauthorized or accidental access, processing, erasure and loss.
+
+1. WHO COLLECT YOUR PERSONAL DATA
+ The companies collecting and processing personal data as autonomous data controllers (hereinafter the "Data Controllers" or the "Companies") or as joint controllers are:
+
+OTB S.p.A. ("OTB"), with registered office in Italy, Breganze (Vi), Via dell'Industria 2, 36042, telephone +390445306555, email privacy@otb.net; OTB's Data Protection Officer ("DPO") can be contacted at dpo@otb.net;
+MARGIELA S.A.S.U. ("Margiela HQ"), with registered office in 163, Rue Saint-Maur, 75011 Paris France, telephone +33 (0) 144536310, email privacy@margiela.com; Margiela's Data Protection Officer ("DPO") can be contacted at dpo@otb.net;
+the local affiliate of Margiela S.a.s.u. ("Margiela Affiliate") of the country where you buy our products or use our services (the list of affiliates is available here).
+OTB and Margiela carry out some activities as joint controllers, taking jointly the decisions regarding the purposes and means of personal data processing. Hereafter, the term "Joint Controllers" means Margiela and OTB jointly considered when they process data as joint controllers.
+
+To facilitate your understanding of the processing activities carried out by the above-mentioned subjects as Controllers or Joint Controllers, we have prepared this document explaining which processing activities are carried out autonomously by each company.
+
+Please consider that said processing activities are not intended for minors and the Data Controllers do not knowingly collect or solicit personal data from anyone under the age of 18. If you are less than 18 years old, please refrain from provide any personal data. This does not affect the general contract law of Member States such as the rules on the validity, formation or effect of a contract in relation to a child.
+
+ 2. WHAT PERSONAL DATA WE PROCESS
+Each Company collects different categories of personal data according to the purpose for which it processes them.
+
+Herein below we specify which categories of personal data are collected; in the following paragraph we will explain for what purposes each category of data is processed by each Data Controller or by the Joint Controllers as appropriate (hereinafter also "Personal Data" if processed jointly).
+
+Biographical Data: name, surname, date of birth, gender;
+Contact Data: address of residence (street, city, province, state, zip code), domicile, email address, telephone number;
+Sales Data: shipping and billing address, method of delivery and payment, name of the credit card holder and expiry date of the card, information requested by the customer service, VAT number and/or tax code, passport number (the passport number will be used only for purposes related to payment where required by a law and within the limits of that law), Global Blue card number;
+Tracking of Newsletters and Actions Data: information relating to the opening of newsletters or links
+Data collected in the shop: birthday, presumed age group, in some countries the social network ID, gender, method and date of registration, store and sales assistant preferences, language, product categories of interest, methods of use services, preferences on services possibly noted in the shop, redemption campaign, events attendance, other brands purchased, products tried in the dressing room but not purchased;
+Purchase Data: detail of the purchased products (eg. size, price, discount, model, collection, calculated spending level, abandoned cart, etc.);
+Navigation Data: data relating to browsing behaviour and/or use of the websites of the Data Controllers using, for example, cookies or information relating to the pages that have been visited or searched for or related to the wishlist collected while browsing or when shopping on the online store. As for the use of cookies, please refer to the Cookie Policy available [https://www.maisonmargiela.com/ytos/Plugins/AreaLocalizer/Redirectarea?area=Help&controllerName=LegalArea&actionName=CookiePolicy].
+3. FOR WHAT PURPOSES WE PROCESS YOUR PERSONAL DATA
+In this paragraph we explain for what purposes each category of data is processed by each Data Controller or Joint Controller.
+
+3.1 PURPOSES OF MARGIELA S.a.s.u.
+Margiela is the company that designs and promotes the Brand's products. Margiela will process Personal Data for the following purposes.
+
+a) Marketing
+Only with your consent, Margiela will process the Biographical Data, Contact Data and Purchase Data for marketing purposes, that is for advertising on social networks to which you are registered or sending advertising or direct sales material such as email, carrying out market research, with automated contact methods (e-mail, newsletter, SMS, MMS, online messaging platforms, etc.) and traditional contact methods (mail), regarding clothes, accessories and related services, perfumes, glasses, watches and jewels, and technological products, furniture and, generally, the products proposed under the brand "Margiela".
+
+Legal basis: this processing is based on the consent you have given.
+
+You can at any time withdraw your consent to receive the above-mentioned communications by clicking on the appropriate option in each marketing email received, as well as by writing to the address privacy@margiela.com, or otherwise by contacting the Company at the addresses indicated in paragraph 1.
+
+3.2 PURPOSES OF THE JOINT CONTROLLERS (MARGIELA AND OTB)
+Margiela and OTB operate as joint controllers on the basis of a specific agreement for the purpose indicated below.
+
+a) Customer profiling
+With your consent, the Joint Controllers will be entitled to process Biographical Data, Contact Data, Sales Data, the Data collected in the shop, the Purchase Data, Tracking of Newsletters Data and Actions Data and the Navigation Data for profiling purposes and for business analysis, that is for analysis on your purchase preferences consisting of automated processing of the above-mentioned personal data. This processing is aimed at analytically knowing or predicting your purchasing preferences also in order to create customer profiles and customize the commercial offer so that it is more in line with your preferences.
+
+Legal basis: this processing is based on the consent you have given.
+
+You will be entitled at any time to withdraw your consent to be subject to profiling by writing to privacy@margiela.com or otherwise by contacting the Joint Controllers at the addresses indicated in paragraph 1.
+
+3.3 PURPOSES OF MARGIELA AFFILIATE
+Margiela Affiliate is the company that manages the shop where you purchased a product, possibly by phone or other methods provided for by Margiela Affiliate, and to which you have requested assistance services. In some cases, it may be necessary for Margiela Affiliate to become aware of some information concerning you, to process specific requests you may have. Margiela Affiliate will process Personal Data for the following purposes.
+
+a. Sales related services
+Margiela Affiliate may need to process your Biographical Data, Contact Data and certain Sales Data (tax code and/or VAT number, passport number and Global Blue card number) to manage your purchase when concluded by phone or other methods provided for by Margiela Affiliate to issue an invoice, should you request it.
+
+Legal basis: this processing is based on the performance of a contract to which you are a party; the provision of the Personal Data listed above is necessary for this purpose, since otherwise Margiela Affiliate will not be able to process your request.
+
+b. After-sales services
+Margiela Affiliate may collect your Biographical Data and Contact Data to process specific requests that you may formulate in the shop, during post-sales; for example, to arrange a repair, a customization, a home delivery or to manage a return.
+
+Legal basis: this processing is based on the performance of a contract of which you are a part; the provision of the Personal Data listed above is necessary for this purpose, since otherwise Margiela Affiliate will not be able to process your request.
+
+3.4 PURPOSES OF ALL DATA CONTROLLERS OR JOINT CONTROLLERS
+Finally, each Data Controller or Join Controller may need to comply with a specific legal provision to which it is subject or to defend its own right in court.
+
+a. Purposes related to the obligations established by laws or regulations, by decisions/requests of competent authorities or by supervisory and control bodies
+Each Data Controller or Joint Controller may process your Personal Data to comply with a legal obligation to which it is subject.
+
+Legal basis: compliance with a legal obligation.
+
+The provision of data for this purpose is mandatory because in the absence of data the Data Controller or the Joint Controller will not be in a position to comply with their legal obligations.
+
+b. Defense of rights during judicial, administrative or extra-judicial proceedings and in disputes arising in connection with the services offered
+Your Personal Data may be processed by each Data Controller or Joint Controller to defend their rights or take legal action or make claims against you or third parties, including the prevention of fraud.
+
+Legal basis: this processing is based on the legitimate interest pursued by the Data Controller or Joint Controller to protect their rights.
+
+4. WHAT PROCESSING ACTIVITIES WE CARRY OUT IF YOU'RE USING OUR SITE AND YOU NAVIGATE WITHOUT BEING LOGGED IN
+The Site is managed by Margiela using a platform provided for by YNAP, which manages all the purchasing activities via Site as a data controller (Please click here to see YNAP information notice). It is possible to browse the Site without having to actively communicate your Personal Data if you are not logged in. In this case, while browsing the Site, you will remain anonymous, unless you decide to provide your data to communicate with one of the Data Controllers or with the Joint Controllers for one of the purposes described in paragraph 3.
+
+In case of anonymous browsing, however, we inform you that the computer systems and software procedures used to operate the Site acquire, during their normal operation, some data whose transmission is implicit in the use of Internet communication protocols.
+
+This is information that is not directly associated with identified users, but which by its very nature could, through processing and association with data held by third parties, allow these users to be identified.
+
+This category of data includes the IP addresses or domain names of the computers used by users who connect to the Site, the addresses in URI (Uniform Resource Identifier) ​​notation of the requested resources, information regarding access, information regarding location , the method used to submit the request to the server, the size of the file obtained in response, the numerical code indicating the status of the response given by the server (successful, error, etc.), the information regarding the user's visit including data clickstream of the URL, within and from the Site, the duration of the visit on some pages and the interaction on these pages and other parameters relating to the operating system and the user's IT environment.
+
+These data are collected through the use of "cookies". We specifically use browser cookies for various purposes, including cookies strictly necessary for the operation of the Site and the use of services through the appropriate features, and the cookies that are used for personalization, performance/analysis and promotional activities. Our Cookie Policy [https://www.maisonmargiela.com/ytos/Plugins/AreaLocalizer/Redirectarea?area=Help&controllerName=LegalArea&actionName=CookiePolicy] contains more information regarding the use of cookies on the Site, as well as the options for accepting or rejecting them.
+
+The data collected while browsing the Site will be processed to (i) manage the Site and resolve any operating problems, (ii) make sure that the content of the Site is presented in the most effective way for its devices, developing, testing and making improvements to the Site, (iii) as far as possible, to keep the Site safe and secure, (iv) to obtain anonymous statistical information on the use of the Site and to check its correct functioning, (v) identify anomalies and/or abuses in the use of the Site. The data could also be used to ascertain responsibility in case of possible computer crimes committed against the Site or third parties and may be presented to the Judicial Authority, if this makes an explicit request.
+
+5. WHAT HAPPENS IF YOU DO NOT PROVIDE PERSONAL DATA
+Some Personal Data that we will indicate you from time to time during the registration or in shop are necessary for the completion of the purchase contract and for administrative and accounting purposes.
+
+In the description of the purposes in paragraph 3, we specified when it is necessary to provide Personal Data. Where not expressly indicated as mandatory, therefore, the provision of Personal Data is optional and there will be no consequences if you do not provide them, if not the impossibility for the Data Controllers or Joint Controllers to act as described (for example, the impossibility to carry out marketing activities).
+
+6. HOW AND HOW LONG WE WILL PROCESS PERSONAL DATA
+The Personal Data provided to and/or collected by the Data Controllers or the Joint Controllers are processed and stored with automated tools and, in some cases, may be processed and stored on a paper backing. In particular, the Personal Data processed for purposes of marketing and of marketing in line with your preferences will be entered and stored in the CRM systems that allow the processing of Personal Data for these purposes.
+
+The Personal Data will be stored for the time necessary to achieve the purposes for which they were collected. In particular, the following rules will apply:
+
+data collected to enter into and perform purchase contracts, including payments: up to the conclusion of administrative and accounting obligations. The billing data will be kept for 10 years from the billing date;
+data related to data subjects' requests: the data will be stored until the request is satisfied;
+if you have provided your consent, the data processed for purposes of marketing and profiling will be stored for a period of 7 years (also according to an ad hoc provision provided for by the Italian Supervisory Authority, upon Margiela request) unless you revoke your consent. In this case, upon withdrawal of your consent, we will delate your data.
+In any case, for technical reasons, the termination of the processing and the consequent cancellation or irreversible anonymization of the related Personal Data will be definitive within thirty days from the terms indicated above.
+
+With particular reference to the judicial protection of our rights or in case of requests from the authority, the data processed will be stored for the time necessary to process the request or to protect the right.
+
+7. WHERE PERSONAL DATA MAY BE TRANSFERRED
+For the purposes indicated above, we may also transfer your Personal Data to third countries, not belonging to the European Union, which may possibly do not guarantee the same level of protection. The transfer to third countries will always take place in accordance with the provisions of the GDPR, adopting any other measures necessary to ensure the security of the personal data being transferred. These measures possibly include agreements incorporating the so-called "standard contractual clauses" issued by the European Commission or your consent. You can ask for information regarding these third countries and how to obtain a copy of the appropriate safeguards using the following email: privacy@margiela.com or the contact details indicated in paragraph 1.
+
+8. WHO WILL PROCESS PERSONAL DATA
+Personal Data will be processed by:
+
+employees and collaborators of the Data Controllers or of the Joint Controllers processing data under the authority of the Data Controllers or of the Joint Controllers;
+employees and collaborators of the Data Processors (meaning who processes personal data on behalf of the Data Controller) designated by the Data Controllers or Joint Controllers, including (i) the companies managing the shops and the online store and who will be entitled to view, modify and update the Personal Data entered in the CRM systems through which the Data Controllers or the Joint Controllers carry out the processing activities for marketing and profiling purposes (ii) the companies managing the storage of the Personal Data of the Data Controllers or Joint Controllers based on agreements or local regulations;
+third parties established in the European Union and also outside the European Union, Data Processors, used by the Data Controllers or Joint Controllers in particular for services of: personal data acquisition and data entry, shipping, mailing of promotional material , after sales assistance and customer service, market research, management and maintenance of the CRM systems through which the Data Controllers or Joint Controllers carry out processing activities for marketing and profiling purposes and of the other corporate information systems of the Data Controllers or Joint Controllers of the processing. The complete list of Data Processors appointed by the Data Controllers or Joint Controllers can be requested to the following email address privacy@margiela.com or writing to the postal addresses indicated above.
+Personal Data may also be disclosed to third parties, independent data controllers, in particular to freelancers or companies providing legal or tax advice and assistance and to companies managing payments made by debit or credit cards or for fraud prevention and management activities.
+
+Personal Data will not be disseminated in any way.
+
+9. YOUR RIGHTS
+Pursuant to Chapter III of the GDPR, you have the right to ask each Data Controller or Joint Controller:
+
+to access to your Personal Data;
+to receive the copy of the Personal Data you provided us (so-called "data portability") and to have data transmitted to another controller, if technically possible;
+the rectification of the Personal Data in our possession;
+the erasure of any Personal Data in relation to which we no longer have any legal basis for processing;
+the limitation of the way in which we process your Personal Data, within the limits set by the applicable law data protection law.
+Right to object: in addition to the rights listed above, you always have the right to object at any time to the processing of your Personal Data carried out by the Data Controller or Joint Controller for the pursuit of its legitimate interest. You have the right to object to direct marketing, which includes profiling. If you prefer that the processing of your Personal Data is carried out solely through traditional contact methods, you can object to the processing of your personal data carried out through automated contact methods.
+
+You also have the right to withdraw, free of charge, in whole or in part, the consent to the processing of Personal Data concerning you for the purpose of sending advertisements or direct selling or for carrying out market research or commercial communication with automated contact methods (e-mail, other remote communication systems via communication networks such as, for instance: SMS, MMS, messaging platforms, etc.) and traditional contact methods (mail).
+
+The exercise of these rights, which can be done through the contact details indicated in paragraph 1, is not subject to formal constraints. In the event that you exercise any of the above mentioned rights, it will be the responsibility of the Data Controller or Joint Controller that you contacted to verify if you are entitled to exercise the right and to provide you with an answer, normally within a month.
+
+As regards the Joint Controllers relationship, please note that OTB and Margiela entered into a specific agreement pursuant to article 26 of the GDPR, an extract of which is available for consultation contacting each of the Joint Controllers using the contact details indicated under paragraph 1.
+
+If you believe that the processing of your Personal Data is carried out in breach of the provisions of the GDPR, you have the right to lodge a complaint with the Supervisory Authority or to start the appropriate legal actions before the competent courts.
+
+To exercise your rights, you can send a request to the Data Controllers or Joint Controllers by writing to the addresses indicated in paragraph 1. The OTB Data Protection Officer can be contacted at the email address dpo@otb.net. The Margiela Data Protection Officer can be contacted at the email address dpo@otb.net.
+
+LAST UPDATE FEBRUARY 2021
+
+CHINESE
+關於根據歐盟第679/2016號條例("GDPR")第13條和第14條處理個人資料的情況通知
+您的隱私對我們極為重要,敬請您仔細閱讀此資訊須知。
+
+我們希望通過全面而透明的方式使您瞭解我們如何處理您的個人資料,下文第1段所列公司將對您提供的和/或在您與我們聯繫的過程中可能收集的您的個人資料進行處理,聯繫方式包括以下情形在內:
+
+到訪我們的商店;
+聯繫我們的客戶服務;
+訪問我們的網站www.masionmargiela.com (以下簡稱為"網站")和/或其他相關的網站,與我們在社交網路頁面(例如 Facebook、 Twitter、 Instagram、微信等)進行互動。
+我們向您保證,我們已採取一切切實可行的措施,確保您的個人資料不會受到未經授權或意外的訪問、處理、刪除和丟失。
+
+1. 誰來收集您的個人資料
+收集並處理個人資料的公司作為獨立的或聯合的資料控制者(以下簡稱"資料控制者"或"公司"),即為:
+
+OTB S.p.A.("OTB"),註冊地址位於義大利,Breganze (Vi),Via dell'Industria 2,36042,電話:+390445306555,電子郵件:privacy@otb.net ;您可通過發送郵件至 dpo@otb.net 與OTB的資料保護官("DPO")取得聯繫;
+MARGIELA S.A.S.U. ("Margiela HQ"),註冊地址位於法國巴黎,163, Rue Saint-Maur, 75011;您可通過發送郵件至dpo@otb.net 與Margiela的資料保護官("DPO")取得聯繫;
+當地MARGIELA S.A.S.U.的關聯方 ("Margiela關聯方"),您購買我們的產品及接受我們的服務時所在的國家(關聯方清單可於此處查看)。
+OTB和 Margiela通過聯合及共同的方式決定個人資料處理的目的和方法。以下,"聯合控制者"即為 Margiela和 OTB在作為聯合控制者處理資料時的統稱。
+
+為便於您理解由控制者或聯合控制者等前述主體所執行的處理活動,我們準備了這份檔,向您釋明每家公司將進行哪些處理活動。
+
+請注意上述處理活動並非針對未成年人,資料控制者也不會故意收集或索取18歲以下未成年人的個人資料。這並不影響適用的合同法項下例如合同有效性、成立或效力等關於兒童的相關規定。
+
+ 2.我們處理哪些個人資料
+每個公司根據其處理目的的不同,收集不同類別的個人資料。
+
+在下文中,我們將說明哪些類別的個人資料將被收集。我們將說明每個資料控制者或聯合控制者出於何種目的處理每一類資料(如果是合併處理的,以下也稱為"個人資料")。
+
+個人身份資訊:姓名、出生日期、性別;
+聯繫方式:住宅地址(街道、城市、省/州、郵遞區號)、住所、電子郵箱、電話;
+銷售資料:發貨及帳單位址、交付及支付方式、持卡人姓名、信用卡有效期、客戶服務所需要的資訊、增值稅號碼或稅號、護照號碼(在法律規定的範圍內,護照號碼僅用於與支付有關的用途)、環球藍聯尊享卡卡號;
+流覽簡訊的跟蹤資料:包括與打開簡訊或相關連結有關的資訊;
+在您到訪商店期間所收據的資料:生日、所屬年齡段、社交網路號(如有)、性別、註冊方式和日期、對門店及銷售助理的偏好、語言、偏好的產品類別、使用服務的方式、關於門店服務的偏好、回饋活動、參加的活動、購買的其他品牌、試穿但未購買的商品情況;
+採購數據:所購產品的詳細資訊(如尺寸、價格、折扣、版型、系列、支出水準、購物車內放棄購買的產品資訊等);
+流覽資料:關於用戶流覽行為和/或使用資料控制者網站時的資料,例如 cookie、訪問或搜索網頁的頁面資訊或通過對使用者在網上商店流覽、購物時所收集到的願望清單資訊。關於 cookie的使用,請登錄[ https://www.maisonmargiela.com/ytos/Plugins/AreaLocalizer/Redirectarea?area=Help&controllerName=LegalArea&actionName=CookiePolicy ]參閱相關政策。
+3. 我們處理您的個人資料的目的是什麼
+在這一部分中,我們解釋每個資料控制者或聯合控制者處理每一類資料的目的。
+
+3.1 Margiela S.a.s.u.的目的
+Margiela是設計和推廣本品牌產品的公司。Margiela將為如下目的處理您的個人資料。
+
+a. 行銷
+只有在獲得您同意的情況下, Margiela公司才會處理您的個人身份資訊、聯繫資料和購買資料,用於在您註冊的社交網路上發佈廣告,或為商業之目的,通過自動化定制系統(電子郵件、網路簡訊、短信、彩信、線上資訊平臺等)及傳統聯繫方式(紙質郵件)向您發送廣告或直銷資料,如電子郵件及進行市場調查。產品涉及服飾、飾品及相關服務、香水、眼鏡、手錶及珠寶、及電子產品、傢俱及其他Margiela品牌相關產品。
+
+法律依據:此項處理是基於您的同意。
+
+您可於任何時候通過點擊郵件中相應選項,或寫信至 privacy@margiela.com ,或通過其他方式按第1段注明的地址與 Margiela公司聯繫,以撤銷您對接受上述行銷資訊的同意。
+
+3.2 聯合控制者的目的(Margiela和 OTB)
+Margiela和 OTB作為聯合控制者為如下之目的達成合意。
+
+a. 客戶資料搜集
+根據您的同意,聯合控制器者有權為商業目的處理您的個人資訊、聯繫方式、銷售資料、在門店收集的資料、購買資料、跟蹤獲取您的流覽行為及習慣資料,用於分析您的購買偏好。前述處理的目的旨在通過分析獲悉或預測您的購買偏好,同樣也為了創建客戶群體畫像及進行定制化的商業服務,以期更符合您的喜好。
+
+法律依據:此項處理是基於您的同意。
+
+您有權在任何時候通過發送郵件至 privacy@margiela.com , 或通過其他方式按第1段所述地址與聯合控制者取得聯繫,以撤回您的同意。
+
+3.3 Margiela關聯方的目的
+Margiela關聯方系為品牌店鋪管理方,您可通過致電或其他由Margiela關聯方提供的方式進行購物或請求服務。在某些情況下,Margiela關聯方可能有必要瞭解有關您的一些資訊,以處理您可能提出的特定請求。Margiela關聯方將為以下目的處理您的個人資料。
+
+a. 銷售有關的活動
+Margiela關聯方可能需要處理您的個人資訊、聯繫資料及其他相關資料(稅號、增值稅號、護照號及環球藍卡卡號)以處理您通過電話或其他由Margiela關聯方提供的方式進行的購物及按您的要求向您發出付款通知書。
+
+法律依據:此處理是為履行您作為當事一方所簽署與加入積分活動有關的合同;為前述之目的,以上所列有關個人資料的條款是必要的,否則 Margiela關聯方將無法處理您的請求。
+
+b. 售後服務
+Margiela關聯方可能會收集您的個人資訊資料和聯繫資料,以處理您可能在店內、售後服務期間提出的具體要求;例如安排修理、定制、送貨上門或辦理退貨。
+
+法律依據:此處理是為履行您作為當事一方所簽署與加入積分活動有關的合同;為前述之目的,以上所列有關個人資料的條款是必要的,否則 Margiela關聯方將無法處理您的請求。
+
+3.4 所有資料控制者或聯合控制者的目的
+最後,各資料控制者或聯合控制者還需要遵守約束其行為或可於法庭上維護其權益的特定法律規定。
+
+a. 與法律法規、主管機關或監管機構的決定/要求所規定的義務有關的目的
+各資料控制者或聯合控者器可在遵守其必須遵守的法律義務的情況下處理您的個人資料。
+
+法律依據:遵守法律義務。
+
+為此目的提供資料是強制性的,因為在沒有資料的情況下,資料控制者或聯合控制者將無法履行其法律義務。
+
+b. 在司法、行政或司法外程式中以及與提供的服務有關的爭議中的權利辯護
+各資料控制者或聯合控制者可處理您的個人資料,以維護其權利或採取法律行動或向您或協力廠商提出索賠,包括防止欺詐。
+
+法律依據:此處理是基於資料控制者或聯合控制者為保護其權利而追求的合法利益。
+
+4. 如果您正在使用我們的網站,並且您在沒有登錄的情況下進行流覽,我們將執行哪些處理活動
+本網站由 Margiela公司管理,並由YNAP公司作為資料控制方提供平臺用以進行銷售(請點擊此處查看YNAP公司的相關資訊)。如果您沒有登錄,則無需主動提交您的個人資料就可以流覽本網站。在這種情況下,在流覽本網站時,您將保持匿名狀態,除非您決定提供您的資料,以便與其中一名資料控制者或聯合控制者進行聯繫,否則您將保持匿名狀態。
+
+然而,在匿名流覽的情況下,本網站的電腦系統和軟體程式在正常操作期間會獲得一些資料,這些資料的傳輸是使用互聯網通訊協定隱含的。
+
+這類資訊並非直接與特定的用戶相關聯,但就其性質而言,可以通過與協力廠商持有的資料相結合的方式進行使用者識別。
+
+這類資料包括連接到本網站的使用者所使用的電腦的 IP位址或功能變數名稱、所請求資源的 URI (統一資源識別項)中的位址、訪問資訊、位置資訊、用於向伺服器提交請求的方法、回應中獲得的檔大小、表示伺服器回應狀態的數位代碼(成功、錯誤等)、關於使用者訪問的資訊,包括網站內和來自網站的 URL資料點擊流、某些頁面的訪問持續時間和在這些頁面上的交互,以及與作業系統和使用者的 IT環境有關的其他參數。
+
+這些資料是通過使用"cookies"來收集的。我們為多種目的使用 cookies,包括為本網站運營和使用適當功能,以及用於個性化、性能/分析以及促銷等活動。我們的 Cookie政策[https://www.maisonmargiela.com/ytos/Plugins/AreaLocalizer/Redirectarea?area=Help&controllerName=LegalArea&actionName=CookiePolicy]包含了更多關於在本網站上使用 cookies的資訊,您可登陸並選擇同意或拒絕cookies的使用。
+
+流覽本網站時收集的資料將被用於:(i)管理本網站並解決任何運營問題;(ii)確保本網站的內容以最有效的方式呈現出來;(iii)盡可能保持本網站的安全;(iv)獲取有關本網站使用的匿名統計資訊並檢查其正確運行;(v)確定本網站使用中的異常和/或濫用情況。這些資料還可用於認定對本網站或協力廠商可能發生的電腦犯罪案件的責任;如果司法部門提出明確要求,這些資料還可提交給司法部門。
+
+5. 如果您不提供個人資料將會發生的情況
+我們在註冊過程或購物過程中所要求的一些個人資料是執行購買操作,及進行行政管理和會計核算所必需的。
+
+在第3段中,我們具體說明何時需要提供個人資料。因此,若未明確表明是強制性的,個人資料的提供是可選的。如果您不提供這些資料,只可能導致資料控制者或聯合控制者無法進行例如市場行銷活動等行為,而將不會對您產生任何後果。
+
+6.處理個人資料的方式和時間
+提供給和/或由資料控制者或聯合控制者所收集的個人資料將通過自動工具進行處理和儲存,在某些情況下,可能以書面形式進行處理及保存。特別是,根據您的喜好處理的個人資料將被輸入和儲存在客戶關係管理系統中,該系統允許為這些目的處理個人資料。
+
+個人資料將被儲存的時間,以達到所收集的目的。具體而言,將適用以下規則:
+
+為訂立和履行購買合同而收集的資料,包括付款,直至完成行政管理和會計核算。帳單資料將從帳單出具之日起保存10年;
+與資料主體的請求相關的資料:資料將被儲存,直到請求被滿足為止;
+經您同意,為行銷和調研之目的而處理的資料將被儲存7年(應Margiela的要求,也將同時遵守義大利監管部門的臨時規定)直至您撤銷您的同意。您一旦撤銷同意,我們將刪除您的資料。
+在任何情況下,出於技術原因,相關個人資料處理的終止、取消或隱名將在上述條款期限到期後的三十日內進行。
+
+出於對我們權益的司法保護,或者在主管部門提出請求的情況下,相關資料將依據前述權利保護及請求回復所需的時間進行保存。
+
+7. 個人資料可能被轉移的地點
+為了上述目的,我們可能會將您的個人資料轉移到不屬於歐盟的第三國,我們無法保證您的資料將因此獲得同等程度的保護。向第三國的轉移將始終按照 GDPR的規定進行,並採取任何其他必要措施,以確保所轉移的個人資料的安全。這些措施可能包括由歐盟委員會發佈或經您同意包含"標準合同條款"的協議。您可以通過以下電子郵件或寫信至第1段中所列之地址查詢關於這些第三國及如何獲得前述規定檔副本的資訊:privacy@margiela.com 。
+
+8. 誰將處理個人資料
+個人資料將由以下人員處理:
+
+資料控制者的雇員和合作者或經資料控制者及聯合控制者授權進行資料處理的聯合控制者的雇員和合作人員;
+資料控制者或聯合控制者指定的資料處理人員和合作者,包括:(1)管理商店和網上商店的公司,該公司有權查看、修改和更新已輸入資料控制者或聯合控制者進行行銷和分析處理活動的客戶關係管理系統的個人資料;(2)根據協定或當地法規管理資料控制者或聯合控制者個人資料存儲的公司;
+在歐盟內或聯合控制者在歐盟外設立的協力廠商,資料處理人員,資料控制者或聯合控制者使用的服務包括:個人資料獲取和資料錄入、運輸、宣傳材料的郵寄、售後服務和客戶服務、市場調查、客戶關係管理和維護客戶關係管理系統,資料控制者或聯合控制者用於行銷和分析目的而而建立的客戶關係管理系統以及其他公司資訊系統的管理和維護。您可發送郵件至 privacy@margiela.com 或寫信至上述位址要求獲得完整的資料處理人員名單。
+個人資料也可披露給協力廠商、獨立資料控制者、自由職業者或提供法律或稅務諮詢和協助的公司、以及管理借記卡或信用卡付款或預防和監管欺詐的公司。
+
+個人資料不會以任何方式傳播。
+
+9. 您的權利
+根據 GDPR第三章的規定,您有權要求各資料控制者或聯合控制者:
+
+訪問您的個人資料;
+接收您提供給我們的個人資料複本(所謂的"資料移轉"),並在技術可行的情況下將資料傳輸給另一控制者;
+對我們擁有的個人資料進行改正;
+刪除我們不再具有任何法律依據進行處理的任何個人資料;
+在法律允許範圍內,限定我們處理您的個人資料的方式。
+反對權:除上述權利外,您始終有權隨時反對資料控制者或聯合控制者為追求其合法利益而對您的個人資料進行處理。您有權反對直銷,包括資料搜集。如果您希望您的個人資料處理完全通過傳統的聯繫方式進行,您可以反對通過自動聯繫方式對您的個人資料進行處理。
+
+您亦有權全部或部分撤回同意我們為發送廣告或進行直銷或進行市場調查之目的,通過自動推送方式(電子郵件,或其他遠端通訊方式,如短訊、彩信、通訊平臺等)或傳統方式(紙質郵件)對您的個人資料進行處理,而無需支付任何費用。
+
+這些權利的行使,可以通過第1款所述的聯繫方式進行,形式不限。如果您行使上述任何權利,您所聯繫的資料控制者或聯合控制者有責任在一個月內核實您是否有權行使該權利並向您提供答覆。
+
+關於聯合控制者之間的關係,請注意, OTB和 Margiela根據 GDPR第26條簽署了一份特別協議,提供了額外可向每一聯合控制者進行諮詢的聯繫方式,該方式已在第1段中注明。
+
+如果您認為對您的個人資料的處理違反了 GDPR的規定,您有權向監管機構提出投訴或向主管法院提起適當的法律行動。
+
+為了行使您的權利,您可以按第1段所述的位址向資料控制者或聯合控制者發送一份請求書,也可通過發送郵件至 dpo@otb.net 與OTB及Margiela的資料保護官取得聯繫。
+
+最後更新於2021年2月

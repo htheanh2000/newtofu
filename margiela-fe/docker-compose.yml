@@ -1,0 +1,14 @@
+# Margiela frontend – chạy độc lập (context = thư mục này)
+# Usage: docker compose up --build
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: margiela-fe:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    restart: unless-stopped
